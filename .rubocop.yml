@@ -1,0 +1,5 @@
+inherit_gem:
+  webit-ruby-rubocop: config.yml
+
+AllCops:
+  TargetRubyVersion: 2.6.0
