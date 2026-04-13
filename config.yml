@@ -1,0 +1,4 @@
+inherit_from: ./cops/rails.yml
+
+require:
+  - rubocop-rails
