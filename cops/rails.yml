@@ -46,6 +46,9 @@ Rails/DurationArithmetic:
 Rails/EagerEvaluationLogMessage:
   Enabled: true
 
+Rails/EnumSyntax:
+  Enabled: true
+
 Rails/EnvLocal:
   Enabled: false
 
@@ -59,7 +62,13 @@ Rails/FilePath:
 Rails/FindById:
   Enabled: true
 
+Rails/FindByOrAssignmentMemoization:
+  Enabled: true
+
 Rails/FreezeTime:
+  Enabled: true
+
+Rails/HttpStatusNameConsistency:
   Enabled: true
 
 Rails/I18nLazyLookup:
@@ -86,13 +95,22 @@ Rails/MatchRoute:
 Rails/MigrationClassName:
   Enabled: true
 
+Rails/MultipleRoutePaths:
+  Enabled: true
+
 Rails/NegateInclude:
+  Enabled: true
+
+Rails/OrderArguments:
   Enabled: true
 
 Rails/Pluck:
   Enabled: true
 
 Rails/PluckInWhere:
+  Enabled: true
+
+Rails/RedirectBackOrTo:
   Enabled: true
 
 Rails/RedundantActiveRecordAllMethod:
@@ -175,4 +193,7 @@ Rails/WhereNot:
   Enabled: true
 
 Rails/WhereNotWithMultipleConditions:
+  Enabled: true
+
+Rails/WhereRange:
   Enabled: true
