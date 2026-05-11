@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    webit-rails-rubocop (1.0.4)
+    webit-rails-rubocop (1.0.5)
       rubocop-rails (~> 2.34.0)
       webit-ruby-rubocop (~> 3.1)
 

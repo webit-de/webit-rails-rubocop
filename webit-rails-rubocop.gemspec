@@ -2,7 +2,7 @@
 
 Gem::Specification.new do |spec|
   spec.name        = "webit-rails-rubocop"
-  spec.version     = "1.0.4"
+  spec.version     = "1.0.5"
   spec.authors     = ["Richard Böhme", "Roland Schwarzer"]
   spec.email       = ["boehme@webit.de", "schwarzer@webit.de"]
 
