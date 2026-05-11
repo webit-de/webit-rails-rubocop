@@ -155,6 +155,9 @@ Rails/SquishedSQLHeredocs:
 Rails/StripHeredoc:
   Enabled: true
 
+Rails/StrongParametersExpect:
+  Enabled: true
+
 Rails/ThreeStateBooleanColumn:
   Enabled: true
 
