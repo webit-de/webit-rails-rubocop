@@ -68,6 +68,9 @@ Rails/FindByOrAssignmentMemoization:
 Rails/FreezeTime:
   Enabled: true
 
+Rails/HasAndBelongsToMany:
+  Enabled: true
+
 Rails/HttpStatusNameConsistency:
   Enabled: true
 
